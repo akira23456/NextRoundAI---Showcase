@@ -1,6 +1,6 @@
 # 🚀 NextRoundAI
 
-**Your AI copilot for interview prep — practice smarter, get real feedback, and perform better every round.**
+**Your AI copilot for interview prep: practice smarter, get real feedback, and perform better every round.**
 
 👉 Try it here: https://next-round-ai.vercel.app/
 
@@ -43,4 +43,4 @@ Core backend logic and AI pipelines are kept private to ensure security, prevent
 ---
 
 ## 🎯 Why I built this
-Interview prep is often generic and ineffective. I built NextRoundAI to provide **real, personalized feedback** so candidates can actually improve — not just practice.
+Interview prep is often generic and ineffective. I built NextRoundAI to provide **real, personalized feedback** so candidates can actually improve, not just practice.
