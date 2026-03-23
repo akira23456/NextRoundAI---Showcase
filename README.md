@@ -1,39 +1,46 @@
 # 🚀 NextRoundAI
 
-**Your AI copilot for interview prep: practice smarter, get real feedback, and perform better every round.**
+**Your AI copilot for interview prep to practice smarter, get real feedback, and perform better every round.**
 
 👉 Try it here: https://next-round-ai.vercel.app/
 
 ---
 
 ## 🎥 What it does
-NextRoundAI is a video-first interview prep platform that helps you master behavioral interviews using the STAR method.
+NextRoundAI is a video-first interview practice platform that helps you master behavioral interviews using the STAR method (Situation, Task, Action, Result).
 
-Record or upload your responses and receive **personalized, role-specific feedback** based on your target job description.
+Record your responses and receive **personalized, role-specific feedback** powered by AI, using your job description (and optional resume) for context.
 
 ---
 
 ## ✨ Key Features
-- 🎥 Video-based practice for realistic interview simulation  
-- 🧠 AI-powered feedback tailored to your target role  
-- ⭐ STAR method scoring (Situation, Task, Action, Result)  
-- ⚖️ Adaptive difficulty based on your confidence level  
-- 📊 Performance tracking to measure improvement over time  
-- 🔄 Session resume so you never lose progress  
+- 🎥 Video-first practice with realistic interview simulation  
+- 🧠 AI feedback tailored to your job description + resume  
+- ⭐ Strict STAR method scoring with evidence-based evaluation  
+- ⚖️ Adaptive difficulty (Beginner → Advanced)  
+- 📊 Performance dashboard with growth insights  
+- 🔐 Simple Google login  
+- 🎓 Unlimited free interview practice  
 
 ---
 
 ## 🧠 How it works
-NextRoundAI uses advanced AI models to analyze your responses and compare them against job-specific expectations, helping you refine both content and delivery.
+NextRoundAI uses advanced multimodal AI to analyze your interview responses and evaluate them against real job requirements, helping you improve both your answers and delivery.
 
 ---
 
 ## 🛠 Tech Stack
-- Frontend: React, Tailwind CSS  
-- Backend: Node.js, Express  
-- Database: SQLite / PostgreSQL  
-- AI: Google Gemini (multimodal)  
-- Deployment: Vercel  
+- **Frontend:** React 19, Vite, Tailwind CSS  
+- **Backend:** FastAPI, SQLAlchemy (async)  
+- **Database:** PostgreSQL (Supabase)  
+- **AI:** Google Gemini (server-side)  
+- **Auth:** Google OAuth (JWT)  
+- **Deployment:** Vercel (frontend) + Render (backend)  
+
+---
+
+## 🎯 Why I built this
+Interview prep is often generic and ineffective. NextRoundAI provides **personalized, high-signal feedback** so candidates can actually improve, not just practice.
 
 ---
 
@@ -41,6 +48,3 @@ NextRoundAI uses advanced AI models to analyze your responses and compare them a
 Core backend logic and AI pipelines are kept private to ensure security, prevent abuse, and maintain performance.
 
 ---
-
-## 🎯 Why I built this
-Interview prep is often generic and ineffective. I built NextRoundAI to provide **real, personalized feedback** so candidates can actually improve, not just practice.
