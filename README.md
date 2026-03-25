@@ -14,7 +14,7 @@ It uses your **Job Description** (and optional **Resume**) to generate tailored 
 - **⭐ Strict STAR Scoring**: Components only counted when explicitly stated.
 - **🔐 Google-Only Login**: Simple OAuth sign-in for students.
 - **📊 Performance Dashboard**: Readiness, momentum/consistency, and predictive growth insights.
-- **🎓 Unlimited Free Interviews**: No quota limits for students.
+- **🎓 Free Interviews**: No quota limits for students until out of free credits.
 - **💼 Interview Modes**: Professional vs. Casual.
 - **🎓 Role Types**: Internship vs. Full‑Time.
 - **🏢 Company‑Aware Prompts**: Enter a company to tailor question style.
