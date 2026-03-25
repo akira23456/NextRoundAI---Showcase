@@ -4,7 +4,7 @@
 
 It uses your **Job Description** (and optional **Resume**) to generate tailored questions and strict feedback, backed by Gemini models running server‑side.
 
-👉 Live demo: https://next-round-ai.vercel.app/
+👉 Live website: https://next-round-ai.vercel.app/
 
 ## ✨ Key Features
 
